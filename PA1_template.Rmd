@@ -1,7 +1,7 @@
 ---
 title: "Analyzing FitBit Data"
 author: "Swarup Das"
-date: "July, 2014"
+date: "August, 2018"
 ---
 ## Loading and preprocessing the data
 
